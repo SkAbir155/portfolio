@@ -36,11 +36,11 @@ const ACADEMICS = {
     {
       sgpa: 4.0,
       courses: [
-        { name: "Management Information System", credits: 2, grade: "" },
-        { name: "Management Information System Lab", credits: 1, grade: "" },
-        { name: "The Art of Living", credits: 3, grade: "" },
-        { name: "Differential and Integral Calculus", credits: 3, grade: "" },
-        { name: "Business Communication", credits: 3, grade: "" },
+        { name: "Management Information System", credits: 2, grade: "A+" },
+        { name: "Management Information System Lab", credits: 1, grade: "A+" },
+        { name: "The Art of Living", credits: 3, grade: "A+" },
+        { name: "Differential and Integral Calculus", credits: 3, grade: "A+" },
+        { name: "Business Communication", credits: 3, grade: "A+" },
       ],
     },
   ],

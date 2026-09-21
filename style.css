@@ -248,6 +248,11 @@ img { max-width: 100%; display: block; }
 }
 .social svg { width: 22px; height: 22px; fill: var(--text); }
 .social:hover { transform: translateY(-3px); background: var(--accent); }
+.social--facebook:hover { background: #1877f2; }
+.social--instagram:hover { background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af); }
+.social--linkedin:hover { background: #0a66c2; }
+.social--github:hover { background: #333; }
+.social--whatsapp:hover { background: #25d366; }
 .social.is-inactive { opacity: 0.35; cursor: not-allowed; filter: grayscale(1); }
 .social.is-inactive:hover { transform: none; background: var(--surface); }
 
